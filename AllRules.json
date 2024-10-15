@@ -117,7 +117,7 @@
 		"502255059": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启消息通知\",\"action\":\"arg\"}]}"
 	},
 	{
-		"2091464343": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"以后再说\"},{\"id\":\"获取&剪切板\",\"action\":\"不允许\"},{\"id\":\"开启推送通知\",\"action\":\"取消\"},{\"id\":\"drag_img\",\"action\":\"close_btn\"},{\"id\":\"图片跳转\",\"action\":\"此图片未加标签\"},{\"id\":\"ad_image\",\"action\":\"close_btn\"},{\"id\":\"img_advertlogo\",\"action\":\"iv_close_top\"},{\"id\":\"立即签到\",\"action\":\"立即签到\"}]}"
+		"2091464343": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"以后再说\"},{\"id\":\"获取&剪切板\",\"action\":\"不允许\"},{\"id\":\"开启推送通知\",\"action\":\"取消\"},{\"id\":\"drag_img\",\"action\":\"close_btn\"},{\"id\":\"图片跳转\",\"action\":\"此图片未加标签\"},{\"id\":\"ad_image\",\"action\":\"close_btn\"},{\"id\":\"img_advertlogo\",\"action\":\"iv_close_top\"},{\"id\":\"评分有礼\",\"action\":\"评分有礼\"}]}"
 	},
 	{
 		"991562021": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"}]}"
